@@ -10,8 +10,9 @@ This repository contains a Tableau workbook showcasing a Final Dashboard that vi
 The Final Dashboard provides an interactive visualization of shot events during the matches of the World Cup 2022. Users can explore shot locations, types, and other shot-related metrics. The dashboard is also equipped with filters to view data specific to each match in the tournament.
 
 ## Dashboard Preview
+![Screenshot 1](dashboard_ss/Final%20Dashboard%202.png)
 
-
+![Screenshot 2](dashboard_ss/Final%20Dashboard.png)
 ## Data Source
 
 The shot-event data for the World Cup 2022 matches has been sourced from StatsBomb's open data repository. The dataset contains detailed information about each shot event, including location, outcome, player involvement, and more.
